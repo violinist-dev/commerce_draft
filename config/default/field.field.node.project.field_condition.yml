@@ -1,0 +1,21 @@
+uuid: 21ab251a-bfd9-409e-9125-d73577348534
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_condition
+    - node.type.project
+  module:
+    - options
+id: node.project.field_condition
+field_name: field_condition
+entity_type: node
+bundle: project
+label: Condition
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

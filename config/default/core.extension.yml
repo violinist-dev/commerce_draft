@@ -26,6 +26,7 @@ module:
   contextual: 0
   datetime: 0
   datetime_range: 0
+  dblog: 0
   dynamic_page_cache: 0
   editor: 0
   entity: 0
@@ -41,6 +42,8 @@ module:
   layout_builder_restrictions: 0
   layout_discovery: 0
   link: 0
+  media: 0
+  media_library: 0
   menu_ui: 0
   node: 0
   options: 0
@@ -68,6 +71,7 @@ theme:
   seven: 0
   adminimal_theme: 0
   claro: 0
+  bartik: 0
 profile: draft
 _core:
   default_config_hash: R4IF-ClDHXxblLcG0L7MgsLvfBIMAvi_skumNFQwkDc
