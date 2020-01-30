@@ -9,9 +9,9 @@ id: node.project.field_has_roof
 field_name: field_has_roof
 entity_type: node
 bundle: project
-label: 'Has roof?'
+label: Roof
 description: ''
-required: true
+required: false
 translatable: false
 default_value:
   -
