@@ -1700,7 +1700,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/commerce_product_tax_exempt.git",
-                "reference": "99b0616c2b6fbcde8a25e3928493af65f9a5770e"
+                "reference": "9ceaaa41f88d35347950222909575b77db7f0c27"
             },
             "require": {
                 "drupal/commerce_product_tax": "*",
@@ -1747,7 +1747,7 @@
             "support": {
                 "source": "https://git.drupalcode.org/project/commerce_product_tax_exempt"
             },
-            "time": "2020-01-28T05:09:39+00:00"
+            "time": "2020-02-04T18:33:23+00:00"
         },
         {
             "name": "drupal/commerce_store",
