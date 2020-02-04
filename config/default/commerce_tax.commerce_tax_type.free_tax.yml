@@ -1,0 +1,19 @@
+uuid: b69fbb3d-d2ad-4011-97e8-688112e3bc69
+langcode: en
+status: true
+dependencies: {  }
+id: free_tax
+label: 'Free tax'
+plugin: custom
+configuration:
+  display_label: tax
+  round: true
+  rates:
+    -
+      id: 84703370-518f-401a-aebc-2d691bbcde02
+      label: Free
+      percentage: '0'
+  territories:
+    -
+      country_code: AF
+  display_inclusive: true
